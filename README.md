@@ -1,6 +1,8 @@
-### Hi there 👋
-
-<h2> Oi Pessoal <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<style>
+background-color: black;
+font-color: white;  
+</style>
+<h2> Oi Pessoal👋! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
