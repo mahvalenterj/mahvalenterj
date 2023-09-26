@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<img src="https://tenor.com/pt-BR/view/typing-fast-typing-cat-cat-typing-gif-15104026" alt="Welcome!" width="300" align="left" />
 
 </div>
 
