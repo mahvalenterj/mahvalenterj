@@ -1,4 +1,7 @@
-<h2> Oi Pessoal👋! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<body background="https://img.freepik.com/vetores-gratis/abstratos-tecnologia-tabua-circuito_1035-14043.jpg?w=740&t=st=1695830371~exp=1695830971~hmac=28b58d84f0184fca26956910312dd2b44325213166a880e4a5fcb09b5c5b44a5" >
+<h2> Oi Pessoal👋!
+<br/>  
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <div align="center" width="50">
 
@@ -27,3 +30,4 @@ Eu desejo um Happy Coding! 😊
 
 
 ⭐ From [ABSphreak](https://github.com/ABSphreak)
+</body>
