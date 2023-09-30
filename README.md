@@ -1,1 +1,1 @@
-[![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=mahvalenterj)]
+![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=mahvalenterj)
