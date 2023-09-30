@@ -1,7 +1,9 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahvalenterj&hide_progress=true)
+
 <img align="right" width="400" height="400" src="https://i.ibb.co/1r0w8hP/download20230906151305.png">
 
 
-# Hi, I'm Marianna :chicken:
+# Hi, I'm Marianna 🧍‍♀️
 
 Full-Stack | Software engineer :robot:. (In progress)
 
