@@ -1,6 +1,6 @@
 ![Mah GitHub stats](https://github-readme-stats.vercel.app/api?username=mahvalenterj&show_icons=true&theme=radical)
 
-<img align="right" width="400" height="400" src="https://picrew.me/share?cd=fwkce8w2i8">
+<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1y63gY3RqlLaa-t2S9lsEdufkNvNkiAqd/view">
 
 
 # Hi, I'm Marianna :chicken:
