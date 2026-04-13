@@ -7,7 +7,7 @@
 <img align="right" width="350" src="https://i.ibb.co/1r0w8hP/download20230906151305.png" alt="Mariana Profile Image">
 
 ### 👩‍💻 Sobre Mim
-Sou **Data Quality Analyst** na Involves e curso de **Análise e Desenvolvimento de Sistemas** pela Uniasselvi. Unindo minha base em Ciências Sociais (UERJ) com tecnologia, foco em automação de dados e eficiência técnica.
+Sou **Data Quality Analyst** na Involves e curso **Análise e Desenvolvimento de Sistemas** pela Uniasselvi. Amo tecnologia com foco em automação de dados e eficiência técnica.
 
 Também lidero a **Coderise**, criando Landing Pages e soluções de Web Design de alto impacto.
 
@@ -15,7 +15,7 @@ Também lidero a **Coderise**, criando Landing Pages e soluções de Web Design 
 - 🐍 **Foco:** Python, SQL, Automação e Trackeamento de Dados.
 - 🚀 **Projetos:** Web Design moderno com Lovable, Vercel e GTM.
 - 🎨 **Lifestyle:** DIY, Rock, Yoga e entusiasta de receitas na Air Fryer.
-- :gem: Amo customizar tudo o que vejo pela frente!
+- 💙 **Amo customizar tudo o que vejo pela frente!**
 
 ---
 
