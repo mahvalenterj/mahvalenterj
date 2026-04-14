@@ -34,6 +34,8 @@ Também lidero a **Coderise**, criando Landing Pages e soluções de Web Design 
 - 🎨 **Lifestyle:** DIY, Rock, Yoga e entusiasta de receitas na Air Fryer.
 - 💙 **Amo customizar tudo o que vejo pela frente!**
 
+A evolução das interfaces dinâmicas e das arquiteturas híbridas me trouxe até aqui, mas a integração da IA no fluxo de desenvolvimento é o que define meu momento atual. Utilizo a Inteligência Artificial como uma ferramenta de alavancagem para criar soluções escaláveis, seguras e extremamente ágeis. No fim das contas, seja manipulando o DOM ou refinando prompts, o objetivo permanece o mesmo: transformar dados em valor e sonhos em código funcional.
+
 ---
 
 ### 📊 Estatísticas de Produtividade (WakaTime)
