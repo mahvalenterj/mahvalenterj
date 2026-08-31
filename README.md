@@ -15,8 +15,11 @@ Principais projetos:
 
 PROJETOS DE DESTAQUE
 Tech Logística — Sistema de Gestão de Entregas & Event-Driven Logistics | TypeScript, Node.js, React, Redis, Kafka, PostgreSQL, TailwindCSS - https://github.com/mahvalenterj/app-logistics-delivery-ddd
+</br>
 Arquitetura Event-Driven & Máquina de Estados: Desenvolvi um ecossistema completo para gestão de operações logísticas e rastreamento de entregas, implementando uma Máquina de Estados Finita (FSM) para orquestrar o ciclo de vida dos pedidos (Created ➔ Accepted ➔ OnTheWay ➔ Completed).
+</br>
 Mensageria & Alta Disponibilidade: Modelei um barramento de eventos assíncronos simulando/integrando tópicos no Apache Kafka (order-created, delivery-assigned, delivery-status-updated) e uma camada de cache em tempo real com Redis para cotações de frete e consultas de CEP.
+</br>
 Full-stack & Métricas: Construí uma API RESTful em Node.js com tipagem estrita em TypeScript e um Dashboard operacional em React com métricas de entregadores, entregas ativas e inspeção do barramento de eventos em tempo real.
 </br>
 
@@ -31,19 +34,23 @@ Quase todas as páginas que você visita na internet, incluisve as renderizadas,
 
 
 A grande evolução nos últimos 20 anos foi a transição para interfaces dinâmicas, onde a manipulação avançada do DOM permite consumir dados de fontes externas via APIs. Utilizando lógica de iteração em estruturas como Arrays e JSONs, conseguimos popular elementos da página de forma reativa, separando a camada de dados da interface e permitindo uma arquitetura mais granular e segura. Embora no início, o Javascript fosse usado apenas para validação de formulários simples, a capacidade de injeção direta pavimentou o caminho para aplicações web ricas e dinâmicas, o que levou à necessidade de práticas de segurança mais robustas (sanitização de entrada) para evitar a execução de códigos maliciosos injetados por usuários. É majoritariamente correto dizer que hoje as aplicações web e móveis rodam no lado do cliente (client-side), mas com uma ressalva importante: elas funcionam dentro de uma arquitetura híbrida. O padrão atual é que o navegador (cliente) receba o código e processe a maior parte da interface, enquanto o servidor envia apenas dados (APIs). 
-
+</br>
 Programo diariamente há anos em busca de soluções escaláveis ou extremamente simples que resolvam problemas para mim e para os lugares com os quais trabalhei. Programar é, além de uma profissão, um manifesto de independência.
 Depois de ter rodado tantos sites com apenas um sonho, o Dreamweaver e o ftp-client manager, fiquei encantada ao conhecer no VS Code lá pra 2019, quando trabalhei na Accenture do Brasil com manutenção de código para diversos clientes. Passei ela K2 Partnering, pelo Itaú e ela React.org, onde finalmente descobri que eu me saio bem programando para lidar com dados e penso nesses aspectos com mais carinho quando estou programando soluções como sites, landing pages ou apis.
-
+</br>
 Também lidero a **Coderise**, criando Landing Pages e soluções de Web Design de alto impacto.
 <img width="1893" height="935" alt="image" src="https://github.com/user-attachments/assets/8ea02319-c70d-4324-b290-efbda9e0ec65" />
 <img width="1848" height="920" alt="image" src="https://github.com/user-attachments/assets/ab98eb83-0574-4bb8-b9d3-8c16deb57c2f" />
 
+</br>
 
 - 🐍 **Foco:** Python, SQL, Automação e Trackeamento de Dados.
-- 🚀 **Projetos:** Web Design moderno com Lovable, Vercel e GTM.
-- 🎨 **Lifestyle:** DIY, Rock, Yoga e entusiasta de receitas na Air Fryer.
+ </br>
+- 🎨 **Lifestyle:** DIY, Rock, Yoga e entusiasta de receitas proteicas.
+ </br>
 - 💙 **Amo customizar tudo o que vejo pela frente!**
+
+  </br>
 
 A evolução das interfaces dinâmicas e das arquiteturas híbridas me trouxe até aqui, mas a integração da IA no fluxo de desenvolvimento é o que define meu momento atual. Utilizo a Inteligência Artificial como uma ferramenta de alavancagem para criar soluções escaláveis, seguras e extremamente ágeis. No fim das contas, seja manipulando o DOM ou refinando prompts, o objetivo permanece o mesmo: transformar dados em valor e sonhos em código funcional.
 
@@ -69,7 +76,7 @@ A evolução das interfaces dinâmicas e das arquiteturas híbridas me trouxe at
 ### 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianna-corr%C3%AAa-da-silva-valente)
-[![Coderise](https://img.shields.io/badge/Agência-Coderise-eb008b?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://pagina-absurda-sites.vercel.app/)
+[![Coderise](https://www.paginaabsurda.top/)
 
 ---
 
