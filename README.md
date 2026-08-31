@@ -1,8 +1,6 @@
 # Olá, eu sou a Marianna Valente! 👋
 <img align="right" width="250" src="https://i.ibb.co/1r0w8hP/download20230906151305.png" alt="Mariana Profile Image">
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&hide_progress=true" alt="Top Langs" />
-</p>
+
 </br>
 
 <p><h2>👩‍💻 Sobre Mim</h2>
