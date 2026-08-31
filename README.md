@@ -2,7 +2,6 @@
 
 <img align="right" width="220" src="./profile.jpg" alt="Marianna Valente" />
 
-</br>
 **Data Quality Analyst** na Involves Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi) | Fundadora da **Coderise**
 
 Carioca, apaixonada por tecnologia com foco em automação de dados e eficiência técnica. Programo desde 2004 — comecei criando pequenas lojas online em plena era pré-algoritmo do Google — e desde então aprendi que tudo começa (e termina) na forma como os dados são estruturados e injetados corretamente na aplicação.
@@ -60,16 +59,25 @@ Lidero a Coderise, criando landing pages e soluções de web design de alto impa
 ## 📊 Estatísticas
 
 <p align="center">
-
+  <img height="165" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
-<p align="center"> 
-  
-<img height="165" src="https://github-readme-stats.vercel.app/api/?username=mahvalenterj&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahvalenterj&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=Markdown,Text,JSON&hide_border=true" alt="WakaTime Stats" /> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake.svg" /> <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake.svg" /> </picture>
-
+<p align="center">
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=Markdown,Text,JSON&hide_border=true" alt="WakaTime Stats" />
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
