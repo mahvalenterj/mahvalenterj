@@ -5,7 +5,12 @@
 
 <p><h2>👩‍💻 Sobre Mim</h2>
 
-Sou **Data Quality Analyst** na Involves Tecnologia e curso **Análise e Desenvolvimento de Sistemas** pela Uniasselvi. Sou Carioca, amo tecnologia com foco em automação de dados e eficiência técnica. Quando eu comecei a programar em 2004, minhas primeiras webpages (era o nome que a gente dava a uma página da web) se pareciam mais com um caderno com tabelas. Eu usava a Programação para vender na Internet. Eram pequenas lojas que rodavam ainda sem a inteligência do algoritmo do Google ou qualquer coisa do tipo. Desde essa época, eu aprendi a tirar o meu chapéu para os dados, pois aprendi que eu precisava injetar de maneira correta dados e regras no DOM.
+Sou **Data Quality Analyst** na Involves Tecnologia e curso **Análise e Desenvolvimento de Sistemas** pela Uniasselvi. 
+</br>
+Sou Carioca, amo tecnologia com foco em automação de dados e eficiência técnica. Quando eu comecei a programar em 2004, minhas primeiras webpages (era o nome que a gente dava a uma página da web) se pareciam mais com um caderno com tabelas. Eu usava a Programação para vender na Internet. Eram pequenas lojas que rodavam ainda sem a inteligência do algoritmo do Google ou qualquer coisa do tipo. 
+</br>
+Desde essa época, eu aprendi a tirar o meu chapéu para os dados, pois aprendi que eu precisava injetar de maneira correta dados e regras no DOM.
+</br>
 Principais projetos:
 
 PROJETOS DE DESTAQUE
@@ -13,7 +18,7 @@ Tech Logística — Sistema de Gestão de Entregas & Event-Driven Logistics | Ty
 Arquitetura Event-Driven & Máquina de Estados: Desenvolvi um ecossistema completo para gestão de operações logísticas e rastreamento de entregas, implementando uma Máquina de Estados Finita (FSM) para orquestrar o ciclo de vida dos pedidos (Created ➔ Accepted ➔ OnTheWay ➔ Completed).
 Mensageria & Alta Disponibilidade: Modelei um barramento de eventos assíncronos simulando/integrando tópicos no Apache Kafka (order-created, delivery-assigned, delivery-status-updated) e uma camada de cache em tempo real com Redis para cotações de frete e consultas de CEP.
 Full-stack & Métricas: Construí uma API RESTful em Node.js com tipagem estrita em TypeScript e um Dashboard operacional em React com métricas de entregadores, entregas ativas e inspeção do barramento de eventos em tempo real.
-
+</br>
 
 <img width="848" height="559" alt="image" src="https://github.com/user-attachments/assets/1f7a2163-7d03-4ed2-905a-32d7bd9399cb" />
 </br>
