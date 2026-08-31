@@ -59,7 +59,7 @@ Lidero a Coderise, criando landing pages e soluções de web design de alto impa
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/?username=mahvalenterj&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/?username=mahvalenterj&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
