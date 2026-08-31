@@ -1,5 +1,7 @@
 # Olá, eu sou a Marianna Valente! 👋
 
+<img align="right" width="220" src="./profile.jpg" alt="Marianna Valente" />
+
 </br>
 **Data Quality Analyst** na Involves Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi) | Fundadora da **Coderise**
 
