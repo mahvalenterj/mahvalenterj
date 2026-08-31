@@ -63,13 +63,13 @@ Lidero a Coderise, criando landing pages e soluções de web design de alto impa
 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahvalenterj&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+<p align="center"> 
+  
+<img height="165" src="https://github-readme-stats.vercel.app/api/?username=mahvalenterj&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahvalenterj&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=Markdown,Text,JSON&hide_border=true" alt="WakaTime Stats" /> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake.svg" /> <img alt="Snake das contribuições" src="https://raw.githubusercontent.com/mahvalenterj/mahvalenterj/output/github-contribution-grid-snake.svg" /> </picture>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mahvalenterj&layout=compact&theme=vision-friendly-dark&langs_count=6&hide=Markdown,Text,JSON&hide_border=true" alt="WakaTime Stats" />
-</p>
+
 
 ---
 
