@@ -2,7 +2,7 @@
 
 <img align="right" width="220" src="./profile.jpg" alt="Marianna Valente" />
 
-**Data Quality Analyst** na Involves Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi) | Fundadora da **Coderise**
+Desenvolvedora Java Pleno | Estudante de Análise e Desenvolvimento de Sistemas (Uniasselvi)
 
 Carioca, apaixonada por tecnologia com foco em automação de dados e eficiência técnica. Programo desde 2004 — comecei criando pequenas lojas online em plena era pré-algoritmo do Google — e desde então aprendi que tudo começa (e termina) na forma como os dados são estruturados e injetados corretamente na aplicação.
 
